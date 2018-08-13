@@ -1,0 +1,2 @@
+# virtualMind
+Currencys
